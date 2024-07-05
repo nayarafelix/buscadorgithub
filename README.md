@@ -44,4 +44,4 @@ $ npm run dev
 ```
 ## Visualizar demonstração
 
-Se você quiser visualizar uma demonstração do projeto sem instalar localmente, você pode visitar https://buscadorgithub.vercel.app/.
+Se você quiser visualizar uma demonstração do projeto sem instalar localmente, você pode visitar https://buscadorgithub-delta.vercel.app/.
